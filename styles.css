@@ -1,0 +1,83 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;/* Adjust the margin */
+    padding: 0;/* Add padding for spacing */
+    box-sizing: border-box;/*alter default css box border */
+}
+
+/* Style the header */
+header {
+    background-color: #fff;/*adjust background color to white */
+    color: black;/*adjust font color to white */
+    padding: 30px;/* Add padding for spacing */
+    text-align: center;/*adjust text location to center */
+}
+
+/* Style the navigation menu */
+nav {
+    margin-bottom: 20px; /* Add margin below the navigation menu */
+    text-align: center;/*adjust text location to center */
+}
+
+nav ul {
+    list-style-type: none; /*alter default css box border */
+
+}
+
+nav ul li {
+    display: inline; /*remove default bullet points */
+    margin-right: 20px;/* Adjust the margin to move right */
+    top: 20px; /* Adjust the distance from the top */
+    color: blue;/*adjust font color to blue */
+}
+
+
+/* Style the main content area */
+main {
+    display: flex;/* Ensure image  overflow */
+    justify-content: space-between; /* control how flex items are positioned */
+
+}
+
+main section {
+    width: 80%;/* Adjust the width as per your preference */
+    padding: 20px;/* Add padding for spacing */
+}
+
+/* Style the footer */
+footer {
+    background-color: #fff;/*adjust background color to white */
+    color: #000;/*adjust font color to white */
+    text-align: center;/*adjust text location to center */
+    padding: 20px;/*adjust padding  to 20px */
+    position: fixed;/*adjust position to be fixed */
+    bottom: 0; /* Position from the bottom */
+    width: 100%;/* Adjust the width as per your preference */
+}
+
+/* Add margin to the external links */
+section:last-child ul {
+    margin-top: auto; /* Adjust the margin-top as needed */
+}
+
+.sidebar {
+    width: 400px; /* Adjust the width as per your preference */
+    position: fixed; /* Position the sidebar relative to the viewport */
+    top: 90px; /* Position from the top */
+    right: 300px; /* Position from the right */
+    padding: 20px; /* Add padding for spacing */
+}
+
+.sidebar img {
+    width: 100%; /* Make images fill the sidebar width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure images don't overflow */
+    margin-bottom: 10px; /* Add margin between images */
+}
+
+#official-page {
+    color: red; /*giving red color to font*/
+    margin-left: -1000px; /* Adjust the margin to move it to the left */
+    margin-top: 400px; /* Adjust the margin to move it down */
+}
+
