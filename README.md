@@ -6,6 +6,8 @@ This is a mid-module assignment project for the Unviersity of Liverpool. The aim
 - [Requirements](#requirements)
 - [Index.HTML](#Index.HTML)
 - [History.HTML](#History.HTML)
+- [License](#License)
+- [Contributing](#Contributing)
 
 
 
@@ -30,5 +32,11 @@ git clone https://github.com/nicolasKappa/Static_Website_Porsche_UoL.git
 * Page includes introduction to the Porsche 911. It has heading and navigation bar for home and history buttons. Home page also includes text about the model's elegancy. At the bottom the link takes you to official porsche 911 website. Index.HTML also includes footer, with corresponding textual.
 
  # History.HTML
- * Histroy button takes you to this page. It has textual information about Porsche 911 history. The page also has video link taken from youtube and is under 1 minute. History webapge includes image of Porsche 911 models in different years and external link for wikipedia page. 
+ * Histroy button takes you to this page. It has textual information about Porsche 911 history. The page also has video link taken from youtube and is under 1 minute. History webapge includes image of Porsche 911 models in different years and external link for wikipedia page.
+
+# License
+* MIT
+
+# Contributing
+* You can Freely contribute according to README.MD
 
