@@ -4,6 +4,8 @@ This is a mid-module assignment project for the Unviersity of Liverpool. The aim
 # Table of Content
 - [Set up](#Set-up)
 - [Requirements](#requirements)
+- [Index.HTML](#Index.HTML)
+- [History.HTML](#History.HTML)
 
 
 
