@@ -3,7 +3,7 @@ This is a mid-module assignment project for the Unviersity of Liverpool. The aim
 
 # Table of Content
 - [Set up](#Set-up)
-- [Tasks From the Assignments](#Tasks-From-the-Mid--Module-Assignments)
+- [Tasks From the Mid Module Assignment](#Tasks-From-the-Mid--Module-Assignment)
 - [Index.HTML](#Index.HTML)
 - [History.HTML](#History.HTML)
 - [License](#License)
