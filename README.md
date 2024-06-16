@@ -28,10 +28,10 @@ git clone https://github.com/nicolasKappa/Static_Website_Porsche_UoL.git
 
 * Page 2 : Must contain at least a textual, video and audio description of your selected topic. For example, a short ‘History’ or ‘Explanation’ in a paragraph along with a video and audio clips about your selected topic. Video/audio should not exceed more than 1 minute. There should be a link to next/previous page and some additional links for external websites.
 
-# Index.HTML
+# Page 1 - Index.HTML
 * Page includes introduction to the Porsche 911. It has heading and navigation bar for home and history buttons. Home page also includes text about the model's elegancy. At the bottom the link takes you to official porsche 911 website. Index.HTML also includes footer, with corresponding textual.
 
- # History.HTML
+ # Page 2 - History.HTML
  * Histroy button takes you to this page. It has textual information about Porsche 911 history. The page also has video link taken from youtube and is under 1 minute. History webapge includes image of Porsche 911 models in different years and external link for wikipedia page.
 
 # License
