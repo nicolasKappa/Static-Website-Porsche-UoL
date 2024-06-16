@@ -23,7 +23,7 @@ git clone https://github.com/nicolasKappa/Static_Website_Porsche_UoL.git
 - To set up the project, Open the projct via Visual Studio Code and push live button on bottom right. 
 
 
-# Requirements
+# Tasks From the Assignments
  * Page 1: Must be landing webpage of your website with appropriate name and links to other pages. Add a section on the right side of page showing images/scenes relevant to your selected topic
 
 * Page 2 : Must contain at least a textual, video and audio description of your selected topic. For example, a short ‘History’ or ‘Explanation’ in a paragraph along with a video and audio clips about your selected topic. Video/audio should not exceed more than 1 minute. There should be a link to next/previous page and some additional links for external websites.
