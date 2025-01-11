@@ -1,44 +1,74 @@
-# Static_Website_Porsche_UoL
-This is a mid-module assignment project for the Unviersity of Liverpool. The aim is to create static website about my interest/hobby or favourite football team. I have decided to create a website about Porsche 911. 
+# Static Website - Porsche 911 (University of Liverpool)
 
-# Table of Content
-- [Set up](#Set-up)
-- [Tasks From the Mid Module Assignment](#Tasks-From-the-Mid--Module-Assignment)
-- [Page 1 - Index.HTML](#Index.HTML)
-- [Page 2 - History.HTML](#History.HTML)
-- [License](#License)
-- [Contributing](#Contributing)
+This is a mid-module assignment project for the University of Liverpool. The goal is to create a static website focused on an interest or hobby, or in this case, the iconic Porsche 911. 
 
+The website includes various pages providing insights into the history, elegance, and technical excellence of the Porsche 911. 
 
+## Table of Contents
+- [Setup](#setup)
+- [Tasks from the Mid-Module Assignment](#tasks-from-the-mid-module-assignment)
+- [Page 1 - Index.html](#page-1---indexhtml)
+- [Page 2 - History.html](#page-2---historyhtml)
+- [License](#license)
+- [Contributing](#contributing)
 
+## Setup
 
-# Set up
+Follow these steps to get the project up and running locally:
 
-1. Clone the repository
-- Open a command prompt or terminal and run the following command\
-git clone https://github.com/nicolasKappa/Static_Website_Porsche_UoL.git
+1. **Clone the Repository:**
+   Open your command prompt or terminal and run the following command:
+   ```bash
+   git clone https://github.com/nicolasKappa/Static_Website_Porsche_UoL.git
+   
+## Install Visual Studio Code
 
-2. Install Visual Studio Code.
-- Ensure Visual Studio Code is installed https://visualstudio.microsoft.com/downloads/
-- To set up the project, Open the projct via Visual Studio Code and push live button on bottom right. 
+1. Ensure you have [Visual Studio Code](https://visualstudio.microsoft.com/downloads/) installed.
+2. Open the project folder in Visual Studio Code.
+3. Press the **Go Live** button located on the bottom-right of the editor to launch the website in your browser.
 
+---
 
-# Tasks From the Assignments
- * Page 1: Must be landing webpage of your website with appropriate name and links to other pages. Add a section on the right side of page showing images/scenes relevant to your selected topic
+## Tasks from the Mid-Module Assignment
 
-* Page 2 : Must contain at least a textual, video and audio description of your selected topic. For example, a short ‘History’ or ‘Explanation’ in a paragraph along with a video and audio clips about your selected topic. Video/audio should not exceed more than 1 minute. There should be a link to next/previous page and some additional links for external websites.
+### Page 1 (Landing Page)
+The landing page serves as an introduction to the Porsche 911. It includes:
+- A navigation bar linking to the home and history pages.
+- A section showcasing images and scenes relevant to the Porsche 911.
+- Text about the elegance of the Porsche 911.
+- A footer with contact or additional information.
+- A link to the official Porsche website.
 
-# Page 1 - Index.HTML
-* Page includes introduction to the Porsche 911. It has heading and navigation bar for home and history buttons. Home page also includes text about the model's elegancy. At the bottom the link takes you to official porsche 911 website. Index.HTML also includes footer, with corresponding textual.
+### Page 2 (History Page)
+This page focuses on the history of the Porsche 911. It includes:
+- A textual description of the Porsche 911’s history.
+- A short video (under 1 minute) that complements the historical context.
+- A collection of images showing Porsche 911 models through the years.
+- External links to sources like Wikipedia for further reading.
 
- # Page 2 - History.HTML
- * Histroy button takes you to this page. It has textual information about Porsche 911 history. The page also has video link taken from youtube and is under 1 minute. History webapge includes image of Porsche 911 models in different years and external link for wikipedia page.
+---
 
-# License
-* This project is licensed under the MIT License - see the LICENSE file for details.
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## Page 1 - `Index.html`
 
+The landing page provides an elegant introduction to the Porsche 911, featuring:
+- A heading and a navigation bar for easy access to other pages (Home and History).
+- Descriptive text showcasing the Porsche 911's elegance.
+- A right-side section displaying relevant images and scenes of the car.
+- A footer with the corresponding textual content.
+- A clickable link at the bottom redirecting to the official Porsche 911 website.
 
-# Contributing
-* You can Freely contribute according to README.MD
+---
 
+## Page 2 - `History.html`
+
+The history page provides an in-depth overview of the Porsche 911's history, including:
+- A brief but informative textual history of the Porsche 911.
+- A short video (less than 1 minute) showcasing highlights of the Porsche 911's legacy.
+- A collection of images showcasing different models over the years.
+- External link to Wikipedia for more detailed information about the Porsche 911.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
