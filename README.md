@@ -70,5 +70,5 @@ The history page provides an in-depth overview of the Porsche 911's history, inc
 ---
 
 ## License
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 This project is licensed under the MIT License - see the LICENSE file for details.
