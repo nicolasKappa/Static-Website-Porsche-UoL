@@ -35,6 +35,7 @@ git clone https://github.com/nicolasKappa/Static_Website_Porsche_UoL.git
  * Histroy button takes you to this page. It has textual information about Porsche 911 history. The page also has video link taken from youtube and is under 1 minute. History webapge includes image of Porsche 911 models in different years and external link for wikipedia page.
 
 # License
+* This project is licensed under the MIT License - see the LICENSE file for details.
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
